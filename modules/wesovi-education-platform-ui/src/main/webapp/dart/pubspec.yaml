@@ -1,0 +1,5 @@
+name:  dart_spray_example
+description:  A sample Dart/Spray application
+
+dependencies:
+  browser: any

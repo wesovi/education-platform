@@ -1,0 +1,14 @@
+@author "Iván Corrales Solera'
+create activity 'FillingGaps' extends FillingGaps with TimeProperties with  
+	time: 60s
+	title:'Hasta la vista baby"
+	content: "Había un circo en la gran {ciudad} donde vivían {"
+	 
+	 
+create activity "MyActivity" extends StoryBook with Records with TimeLoop{
+	"title":"",
+	"description":"",
+	
+
+}
+	
